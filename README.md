@@ -1,4 +1,3 @@
-[README (6).md](https://github.com/user-attachments/files/32684205/README.6.md)
 # StyloCompare
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Java](https://img.shields.io/badge/Java-8%2B-orange.svg)
